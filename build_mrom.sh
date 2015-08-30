@@ -3,7 +3,7 @@ BOOT_FILE="hybris-boot.img"
 
 SAILFISH_ZIP=""
 DEST_FILE=""
-DEVICE="hammerhead"
+DEVICE="jflte"
 
 fail() {
     echo $1 1>&2
